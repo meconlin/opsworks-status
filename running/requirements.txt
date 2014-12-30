@@ -1,0 +1,4 @@
+boto==2.34.0
+prettytable==0.7.2
+requests==2.5.1
+wsgiref==0.1.2
