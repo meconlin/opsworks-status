@@ -27,17 +27,17 @@ $ python whatsrunning.py
 +-----------------------------------+----------------+------------+---------+------------------------------------------+
 |                name               |       ip       |     id     |  state  |                  answer                  |
 +-----------------------------------+----------------+------------+---------+------------------------------------------+
-| carlingo-staging - virginia-beach | 54.88.220.211  | i-7d941b83 | running | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
-|    carlingo-production - porto    |      None      | i-41a637bf | stopped |                   N/A                    |
-|    carlingo-production - sofia    | 54.172.29.112  | i-6ea73690 | running | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
-|      carlingo-staging - boise     |  54.174.83.39  | i-9f57b072 | running | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
-|     carlingo-development - nix    | 54.165.182.243 | i-15ca48eb | running | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
+| mysite-staging - virginia-beach | 54.88.222.221  | i-7d941b86 | running | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
+|    mysite-production - porto    |      None      | i-41a637b7 | stopped |                   N/A                    |
+|    mysite-production - sofia    | 54.173.30.112  | i-6ea7369y | running | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
+|      mysite-staging - boise     |  54.175.83.39  | i-9f57b07g | running | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
+|     mysite-development - nix    | 54.166.188.243 | i-15ca48eh | running | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
 +-----------------------------------+----------------+------------+---------+------------------------------------------+
 +----------------------------------+------------------------------------------+
 |               url                |                   hash                   |
 +----------------------------------+------------------------------------------+
-| http://development.carlingo.com/ | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
-|   http://staging.carlingo.com/   | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
-| http://production.carlingo.com/  | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
+| http://development.mysite.com/ | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
+|   http://staging.mysite.com/   | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
+| http://production.mysite.com/  | 41f9cdc77ae640ba0ad46f601f94b3926455c925 |
 +----------------------------------+------------------------------------------+
 ```
