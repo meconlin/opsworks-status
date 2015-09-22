@@ -3,7 +3,7 @@ import boto
 from prettytable import PrettyTable
 
 STATUS_ENDPOINT = 'devops_status'
-AUTH = ('buycheck', 'knightrider2000')
+AUTH = ('<yourusernamehere>', '<yourpasswordhere>')
 RAILS_APP = 'opsworks:layer:rails-app'
 
 # check on all running rails-apps instances
